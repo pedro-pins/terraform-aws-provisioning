@@ -6,6 +6,9 @@ Este projeto usa **Terraform** para provisionar uma infraestrutura básica na **
 - VPC e Subnet pública
 - EC2 com acesso via SSH
 
+> Aqui é o básico para subir uma instância configurada para testes básicos com Terraform 
+> Esse Lab pode ser modificado de acordo com os meus aprendizados, irei elaborar um Arquivo.md na estrutura desse projeto para melhorar a situação.  
+
 ## Pré-requisitos
 
 - Conta AWS com acesso programático
@@ -25,6 +28,7 @@ Este projeto usa **Terraform** para provisionar uma infraestrutura básica na **
 terraform init
 terraform plan
 terraform apply
+```
 
 ## Elaborador por
 
